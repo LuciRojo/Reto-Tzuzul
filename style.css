@@ -35,8 +35,7 @@ form {
 
 button {
   color: white;
-  background-color:rgb(243, 116, 179);
-  border-color: rgb(223, 75, 149);
+  background-image: url("./pexels-gradienta-6985132.jpg");
   border-style:groove;
   display: inline-block;
   border-radius: 50%;
@@ -102,12 +101,12 @@ input {
 
 #Home{
  text-decoration: none;
+ color: white;
 }
 
 #bot{
   color: white;
-  background-color:rgb(243, 116, 179);
-  border-color: rgb(223, 75, 149);
+  background-image: url("./pexels-gradienta-6985132.jpg");
   border-style:groove;
   display: inline-block;
   border-radius: 50%;
